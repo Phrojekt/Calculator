@@ -14,7 +14,8 @@ https://phrojekt.github.io/Calculator/
 - HTML para a estruturação da página. 
 - CSS para a estilização. 
 - JavaScript para toda a funcionalidade.
-- 
+
+ 
 ## Referência
 
  - https://www.youtube.com/watch?v=ATd9r0BQ9lI&t=704s
